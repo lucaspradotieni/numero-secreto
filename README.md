@@ -15,7 +15,7 @@ O que foi usado:
 - CSS
 
 Como Iniciar:
-1. Clone este repositório: git clone https://github.com/seu-usuario/jogo-numero-secreto.git
+1. Clone este repositório: git clone https://github.com/lucaspradotieni/numero-secreto.git
 2. Abra o arquivo index.html no navegador
 
 Melhorias Futuras:
