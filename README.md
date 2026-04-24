@@ -15,8 +15,8 @@ O que foi usado:
 - CSS
 
 Como Iniciar:
-1. Copie este repositório: https://github.com/lucaspradotieni/numero-secreto.git
-2. Abra o arquivo index.html no navegador
+1. Baixe a pasta de arquivos.
+2. Execute o arquivo index.html no navegador.
 
 Melhorias Futuras:
 - Aprender a usar o CSS e o HTML para editar o fundo e deixar a interface mais bonita.
